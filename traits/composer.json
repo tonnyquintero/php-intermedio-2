@@ -1,0 +1,16 @@
+{
+    "name": "tonny187/traits",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tonny187",
+            "email": "tonyoanthony@gmail.com"
+        }
+    ],
+    "require": {}
+}
